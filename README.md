@@ -1,0 +1,2 @@
+# Leaf-AI---Sistem-Deteksi-Penyakit-Daun-Tomat-Berbasis-AI-Menggunakan-Laravel-TensorFlow.js
+Leaf AI adalah aplikasi web berbasis Laravel yang menggunakan AI (TensorFlow.js + Teachable Machine) untuk mendeteksi penyakit daun tomat dari gambar. Sistem ini mengklasifikasikan kondisi daun (Healthy, Early Blight, dll), menampilkan hasil prediksi, confidence score, serta rekomendasi penanganan secara otomatis.
